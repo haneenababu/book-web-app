@@ -1,9 +1,11 @@
 import React from 'react'
+import NavBook from './NavBook'
 
 const SearchBook = () => {
   return (
     <div>
         <div className="container">
+            <NavBook></NavBook>
             <row>
                 <div className="col col-12 col-sm-12 col-md-12 com-lg-12 col-xl-12 col-xxl-12">
                     <br></br>
